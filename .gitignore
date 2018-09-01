@@ -1,0 +1,4 @@
+.ipynb_checkpoints/
+bili/data/*
+bili/export/batch/*
+bili/export/*
